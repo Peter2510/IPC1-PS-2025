@@ -1,0 +1,2 @@
+## Solicita al usuario el nombre y el precio de un producto, valida que el precio sea un numero valido y asegura que el precio no sea negativo. Si se ingresa un valor no valido para el precio, el programa solicita de nuevo la entrada hasta recibir un número válido. Si el precio es negativo, se lanza una excepción. Al final, el programa muestra la información del producto o un mensaje de error según corresponda.
+
